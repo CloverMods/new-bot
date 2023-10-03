@@ -1,0 +1,18 @@
+{
+  "name": "anibot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+    "dependencies": {
+    "@whiskeysockets/baileys": "^6.1.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@hapi/boom": "^9.1.4",
+    "@protobufjs/base64": "^1.1.2",
+    "fs-extra": "^10.0.1",
+    "path": "^0.12.7",
+    "pino": "^7.8.0",
+    "qrcode-terminal": "^0.12.0",
+    "qs": "^6.10.3",
+    "trevo-api": "^1.0.2"
+  }
+}
